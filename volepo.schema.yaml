@@ -1,0 +1,37 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: volepo
+  name: Volepo
+  version: '0.2'
+  author:
+    - Valery Sokolov <yetanothermy@protonmail.com>
+  description: |
+    Volapük and Esperanto keyboard
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - fallback_segmentor
+  translators:
+    - table_translator
+
+speller:
+  alphabet: 'aecghjoqsuwxAECGHJOQSUWX''"[]-='
+  initials: 'acghjoqsuACGHJOQSU''"-'
+  finals: 'eqwxEQWX[]='
+  delimiter: ' '
+  auto_select: true
+  max_code_length: 2
+  auto_select_unique_candidate: true
+
+translator:
+  dictionary: volepo
+  enable_sentence: false
+  enable_user_dict: false

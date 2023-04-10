@@ -1,0 +1,118 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Volapük and Esperanto keyboard
+#
+# Table author:
+#  - Valery Sokolov <yetanothermy@protonmail.com>
+#
+
+---
+name: volepo
+version: "0.2"
+sort: original
+use_preset_vocabulary: false
+...
+
+#Lower case symbols
+a	a
+b	b
+c	c
+d	d
+e	e
+f	f
+g	g
+h	h
+i	i
+j	j
+k	k
+l	l
+m	m
+n	n
+o	o
+p	p
+q	q
+r	r
+s	s
+t	t
+u	u
+v	v
+x	x
+w	w
+y	y
+z	z
+ꞛ	aq
+ꞝ	oq
+ꞟ	uq
+ä	ae
+ö	oe
+ü	ue
+ĉ	cx
+ĝ	gx
+ĥ	hx
+ĵ	jx
+ŝ	sx
+ŭ	ux
+
+ajn	aw
+ojn	ow
+
+#Uppercase symbols
+A	A
+B	B
+C	C
+D	D
+E	E
+F	F
+G	G
+H	H
+I	I
+J	J
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+Q	Q
+R	R
+S	S
+T	T
+U	U
+V	V
+W	W
+X	X
+Y	Y
+Z	Z
+Ꞛ	AQ
+Ꞝ	OQ
+Ꞟ	UQ
+Ä	AE
+Ö	OE
+Ü	UE
+Ĉ	CX
+Ĝ	GX
+Ĥ	HX
+Ĵ	JX
+Ŝ	SX
+Ŭ	UX
+
+Ꞛ	Aq
+Ꞝ	Oq
+Ꞟ	Uq
+Ä	Ae
+Ö	Oe
+Ü	Ue
+Ĉ	Cx
+Ĝ	Gx
+Ĥ	Hx
+Ĵ	Jx
+Ŝ	Sx
+Ŭ	Ux
+
+#Symbols
+⸗	-=
+„	"[
+“	"]
+‚	'[
+‘	']
