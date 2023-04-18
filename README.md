@@ -6,20 +6,18 @@ RIME-enigmetodo por Volapuko kaj Esperanto.
 
 A RIME input method for Volapük/Volapꞟk and Esperanto.
 
-# 特殊之處
+# 用法
 
-a ...  +  e  =>  ä ...
+w + a -> ä
 
-a ...  +  q  =>  ꞛ ...
+q + a -> ꞛ
 
-c ...  +  x  =>  ĉ ...
+x + u -> ŭ
 
-\-  +  =  =>  ⸗
+- + = -> ⸗
 
-'  +  [  =>  ‚
+' + [ -> ‚
 
-'  +  ]  =>  ‘
+' + ] -> ‘
 
-a  +  w  =>  ajn
-
-o  +  w  =>  ojn
+etc
