@@ -23,9 +23,9 @@ engine:
     - table_translator
 
 speller:
-  alphabet: 'aecghjoqsuwxAECGHJOQSUWX''"[]-='
-  initials: 'acghjoqsuACGHJOQSU''"-'
-  finals: 'eqwxEQWX[]='
+  alphabet: 'aecghjoqsuwxyAECGHJOQSUWXY''"[]-='
+  initials: 'qwxyQWXY''"-'
+  finals: 'aecghjosuAECGHJOSU[]='
   delimiter: ' '
   auto_select: true
   max_code_length: 2
