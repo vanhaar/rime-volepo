@@ -9,7 +9,7 @@
 
 ---
 name: volepo
-version: "0.2"
+version: "0.3"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -113,6 +113,8 @@ Z	Z
 #Symbols
 ⸗	-=
 „	"[
-“	"]
+”	"]
 ‚	'[
-‘	']
+’	']
+“	""
+‘	''
