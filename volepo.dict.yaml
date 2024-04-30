@@ -9,7 +9,7 @@
 
 ---
 name: volepo
-version: "0.3"
+version: "0.4"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -41,21 +41,19 @@ x	x
 w	w
 y	y
 z	z
-ꞛ	qa
-ꞝ	qo
-ꞟ	qu
-ä	wa
-ö	wo
-ü	wu
-ĉ	xc
-ĝ	xg
-ĥ	xh
-ĵ	xj
-ŝ	xs
-ŭ	xu
 
-ajn	ya
-ojn	yo
+ꞛ	aq
+ꞝ	oq
+ꞟ	uq
+ä	ae
+ö	oe
+ü	ue
+ĉ	cx
+ĝ	gx
+ĥ	hx
+ĵ	jx
+ŝ	sx
+ŭ	ux
 
 #Uppercase symbols
 A	A
@@ -84,36 +82,24 @@ W	W
 X	X
 Y	Y
 Z	Z
-Ꞛ	QA
-Ꞝ	QO
-Ꞟ	QU
-Ä	WA
-Ö	WO
-Ü	WU
-Ĉ	XC
-Ĝ	XG
-Ĥ	XH
-Ĵ	XJ
-Ŝ	XS
-Ŭ	XU
 
-Ꞛ	Qa
-Ꞝ	Qo
-Ꞟ	Qu
-Ä	Wa
-Ö	Wo
-Ü	Wu
-Ĉ	Xc
-Ĝ	Xg
-Ĥ	Xh
-Ĵ	Xj
-Ŝ	Xs
-Ŭ	Xu
+Ꞛ	AQ
+Ꞝ	OQ
+Ꞟ	UQ
+Ä	AE
+Ö	OE
+Ü	UE
+Ĉ	CX
+Ĝ	GX
+Ĥ	HX
+Ĵ	JX
+Ŝ	SX
+Ŭ	UX
 
 #Symbols
 ⸗	-=
-„	"[
-”	"]
+„	"{
+”	"}
 ‚	'[
 ’	']
 “	""
