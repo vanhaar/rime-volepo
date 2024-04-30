@@ -4,7 +4,7 @@
 schema:
   schema_id: volepo
   name: Volepo
-  version: '0.2'
+  version: '0.4'
   author:
     - Valery Sokolov <yetanothermy@protonmail.com>
   description: |
@@ -23,10 +23,9 @@ engine:
     - table_translator
 
 speller:
-  alphabet: 'aecghjoqsuwxyAECGHJOQSUWXY''"[]-='
-  initials: 'qwxyQWXY''"-'
-  finals: 'aecghjosuAECGHJOSU[]='
-  delimiter: ' '
+  alphabet: aecghjoqsuxAECGHJOQSUX''"[]{}-=
+  initials: 'aoucghjsAOUCGHJS''"-'
+  finals: 'eqxEQX[]{}='
   auto_select: true
   max_code_length: 2
   auto_select_unique_candidate: true
