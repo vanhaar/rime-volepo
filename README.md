@@ -5,23 +5,3 @@
 RIME-enigmetodo por Volapuko kaj Esperanto.
 
 A RIME input method for Volapük/Volapꞟk and Esperanto.
-
-# 用法
-
-w + a -> ä
-
-q + a -> ꞛ
-
-x + c -> ĉ
-
-\- + \= -> ⸗
-
-' + [ -> ‚
-
-' + ] -> ‘
-
-y + a -> ajn
-
-y + o -> ojn
-
-etc
